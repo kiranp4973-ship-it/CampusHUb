@@ -1,0 +1,6 @@
+{
+  "name": "CampusHub",
+  "description": "All-in-one student academic and college community app featuring attendance, timetable, syllabus, notes, exams, assignments, study planner, study groups, announcements, and peer connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

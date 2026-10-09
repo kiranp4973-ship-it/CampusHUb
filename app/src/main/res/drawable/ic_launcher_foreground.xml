@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap & Academic Crest inside 66dp center safe zone (21 to 87) -->
+    <!-- Mortarboard Diamond Cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32 L28,45 L54,58 L80,45 Z" />
+    
+    <!-- Cap Under-band / Skull cap -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M38,50 L38,62 C38,70 70,70 70,62 L70,50 L54,58 Z" />
+        
+    <!-- Tassel string and bead -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M72,48 L76,64 L80,64 L77,46 Z" />
+        
+    <!-- Open Book Crest below -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,66 C42,65 32,67 30,68 L30,80 C32,79 42,77 52,78 Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,66 C66,65 76,67 78,68 L78,80 C76,79 66,77 56,78 Z" />
+        
+    <!-- Center Spark of Knowledge -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,64 L55.5,67 L58.5,68.5 L55.5,70 L54,73 L52.5,70 L49.5,68.5 L52.5,67 Z" />
+</vector>
